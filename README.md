@@ -2,6 +2,10 @@
 
 Type your message without worrying about people snooping on your screen.
 
+## Known Bugs
+
+- Currently the keyboard doesn't show up on iOS devices. Will be fixing it soon.
+
 ## Download plain text file
 
 Just type `:save` then press space or enter once you are done typing your text.
